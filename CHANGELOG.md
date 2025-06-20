@@ -1,7 +1,7 @@
 Changelog
 =========
 
-3.x - development
+3.2
 ---
 
 Geometric Modelling Kernel (NURBS)
@@ -61,6 +61,7 @@ Other User interface changes:
 
 Other
 
+* STEP files export as solid model(s).
 * Merged and improved the experimental Web version (Emscripten port).
 * Better Flatpack support.
 * Several bug fixes and usability improvements.
